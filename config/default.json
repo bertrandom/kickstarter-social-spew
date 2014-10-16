@@ -1,0 +1,4 @@
+{
+	"slack_webhook_url": "https://example.slack.com/services/hooks/incoming-webhook?token=xxx",
+	"kickstarter_cookies": "user_credentials=xxx; _ksr_session=xxx;"
+}

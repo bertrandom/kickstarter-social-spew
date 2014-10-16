@@ -1,0 +1,5 @@
+node_modules/
+projectsdb
+config/local.json
+config/local-production.json
+sftp-config.json
